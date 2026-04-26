@@ -1,0 +1,12 @@
+gradio
+langchain
+langchain_community
+transformers
+sentence-transformers
+faiss-cpu
+ctransformers
+pdf2image
+easyocr
+torch
+numpy
+pillow

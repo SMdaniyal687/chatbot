@@ -1,0 +1,18 @@
+# Models
+*.gguf
+
+# Local Data
+data/
+vectorstore/
+TEMP/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
