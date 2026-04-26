@@ -39,7 +39,7 @@ print(f"Using device: {device}")
 reader = easyocr.Reader(['en'])
 
 # Custom prompt template for chatbot
-custom_prompt_template = """You are a sophisticated chatbot designed to provide detailed and accurate information based on the mammogram report provided.
+custom_prompt_template = """You are a sophisticated chatbot designed to provide detailed and accurate information based on the medical or health report provided.
 Your goal is to assist users by answering their questions, offering insights, and providing recommendations based on the merged content of these sources.
 If you don't know the answer, just say that you don't know, and don't try to make up an answer.
 
